@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "De9+QFqimgCYW0u55tCF1kFDk1VAXjfUL3nCF7uvGQh3dhDWTuZRHRRdXgUDnu6bUlMBGGNdfop/6X3GWJfeJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pmullins\\Documents\\Projects\\Sandbox\\Sandbox.iOS\\Sandbox.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pmullins\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
